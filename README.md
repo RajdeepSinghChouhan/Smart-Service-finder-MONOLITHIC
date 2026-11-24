@@ -50,8 +50,8 @@ Smart Service Finder follows a Monolithic Architecture, where the backend applic
                          │
                          ▼
               ┌──────────────────────┐
-              │   Spring Boot       │
-              │    Application      │
+              │   Spring Boot        │
+              │    Application       │
               └──────────┬───────────┘
                          │
              ┌───────────┼───────────┐
